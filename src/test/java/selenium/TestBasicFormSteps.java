@@ -14,7 +14,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assume.assumeTrue;
 
-public class TestBasicForm {
+public class TestBasicFormSteps {
 
     WebDriver driver;
     String expected;
